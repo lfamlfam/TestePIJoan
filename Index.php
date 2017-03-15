@@ -1,3 +1,7 @@
+<html>
+<pre>
 <?php
-echo "Hello world ! !";
+var_dump($_SERVER);
 ?>
+</pre>
+</html>
